@@ -1,0 +1,6 @@
+Solve 5 business problems with different ML techniques:
+1. HR Department: predict employee churn rate with ANN, SMOTE & Logistic Regression Classifier;
+2. Marketing Department: divide customers into 3 clusters for targeted ad campaign with k-means & autoencoder;
+3. Sales Department: predict future faily sales given store features with time-series, FB Prophet, additive regression & trends;
+4. Operations Department: detect and classify chest disease given X-ray images with CNN, ResNet & Transfer Learning;
+5. PR Department: predict customer satisfaction on product with NLP, sentiment analysis & Naive Bayes Classifier.
